@@ -1,0 +1,7 @@
+# Organizar elementos do css
+
+
+- Estrutura básica
+    * Flex container: Tag que envolve os itens
+
+-
