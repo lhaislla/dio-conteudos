@@ -4,11 +4,17 @@
 Repositório criado para documentar informações importantes do Santander Bootcamp Fullstack Developer.
 </div>
 
-<ul Modulo II> 
-    <li> Flex </li>
-    <li>Git </li>
-</ul>
+<div>
+    Modulo II
+    <ul > 
+        <li> Flex </li>
+        <li>Git </li>
+    </ul>
+ </div>
 
-<ul Modulo III> 
-    <li> JavaScript </li>
-</ul>
+<div>
+    Modulo III
+    <ul > 
+        <li> JavaScript </li>
+    </ul>
+</div>
