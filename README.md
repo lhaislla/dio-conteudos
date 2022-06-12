@@ -13,12 +13,7 @@ Repositório criado para documentar informações importantes do Santander Bootc
         <li> Sintaxe e Operadores</li>
         <li> Variéveis e Tipos</li>
         <li> Funções</li>
+        <li> Coleções</li>
     </ul>
 </div>
 
-<div>
-    Modulo III
-    <ul > 
-       <li></li>
-    </ul>
-</div>
