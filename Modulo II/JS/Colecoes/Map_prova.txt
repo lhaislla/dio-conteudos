@@ -1,0 +1,34 @@
+Sobre Mapas, é correto afirmar que
+R- São estruturas de dads no modelo "chace valor"
+
+
+Como adicionar um valor em um Set?
+R- metodo .add()
+
+Sobre coleções chaveadas, é correto afirmar que
+
+R-Setes e Maps são coleções chaveadas, enquanto arrays e Objetos não
+
+Selecione a alternativa correta
+R-Em coleções chaveadas é possivel utilizar o loop for..of
+
+Sobre Sets, é correto afirmar que
+R- Para retornar o tamanho, é necessário acessar a propriedade size
+
+Sobre Objetos e Mapas, é correto afirmar que:
+
+R- Mapas permitem chaves de qualquer tipo, enaqunto Objetos não
+
+Como verificar se um Set possui um valor?
+
+R- Pelo metódo .has()
+
+Como retornar um valor de um Map?
+R- Pelo me´to .get()
+
+Como adicionar um valor a um Map?
+
+R- Pelo metodo .set()
+
+Sobre Sets, é correto afirmar que:
+R- Sâo estruturas de dados unicos

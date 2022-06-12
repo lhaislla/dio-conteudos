@@ -14,6 +14,7 @@ Repositório criado para documentar informações importantes do Santander Bootc
         <li> Variéveis e Tipos</li>
         <li> Funções</li>
         <li> Coleções</li>
+        <li> Map-Filter-Reduce</li>
     </ul>
 </div>
 
