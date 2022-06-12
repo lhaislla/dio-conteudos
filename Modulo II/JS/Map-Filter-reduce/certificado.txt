@@ -1,0 +1,53 @@
+Dado o código abaixo
+
+let array = [1, 2, 3, 4];
+
+array.filter((item) => item % 2 === 0);
+
+Qual será o retorno?
+
+R- [2,4]
+
+Sobre o método map, é correto afirmar que:
+R- Percorre o array e acumula o valor de cada operação para retornar um valor único no final
+
+Sobre o método reduce, é correto afirmar que:
+R- Ele sempre retorna apenas um valor, que pode ou não ser uma array
+
+Sobre o método reduce, é correto afirmar que:
+R- Percorre um array e acumula o valor de cada operação para retornar um valor único no final 
+
+Sobre o método filter, é correto afirmar que:
+R- Percorre um array e retorna outro contendo apenas os itens que passaram por determinada validação
+
+Dado o código abaixo:
+
+let array = [1, 2, 3, 4];
+
+array.map((item) => item * 2);
+
+console.log(array);
+
+O que será logado no console?
+R- [1,2,3,4]
+
+
+Dado o código abaixo:
+
+let array = [1, 2, 3, 4];
+
+array.reduce((current, acc) => current + acc);
+
+Qual será o retorno?
+R- 10 
+
+Qual a diferença entre os métodos map e forEach?
+
+R- O retorno: o metódo map retorna um array, enquanto forEach retorna "undefined"
+
+Sobre o método “map”, é correto afirmar que:
+R- Ele semrpre retorna um novo array 
+
+Sobre o método “filter”, é correto afirmar que:
+
+R- Ele semrpe retorna um novo array
