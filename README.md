@@ -1,8 +1,8 @@
 # Desafio de Projeto sobre Git/Github
 
-<div><title>
+<div>
     Repositório criado para documentar informações importantes do Santander Bootcamp Fullstack Developer. 
-</title></div>
+</div>
 
 <div>
     Modulo II - HTML/CSS/JS
