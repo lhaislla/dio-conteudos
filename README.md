@@ -20,7 +20,13 @@
         <li> Modulos  </li>
         <li>Orientação objeto</li>
         <li> DOM </li>
-        <li> DTypeScript</li>
+        <li> TypeScript</li>
     </ul>
 </div>
 
+<div>
+    Modulo III -Angular
+    <ul> 
+        <li> trodução ao Angular 8</li>
+    </ul>
+</div>
